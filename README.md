@@ -1,2 +1,2 @@
-# CodSoft2
+# codsoft_2
 Landing Page
